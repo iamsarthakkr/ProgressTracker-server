@@ -5,11 +5,7 @@
    "main": "dist/index.js",
    "scripts": {
       "start": "tsc && node dist/index.js",
-<<<<<<< HEAD
       "dev": "ts-node-dev --respawn --transpile-only index.ts",
-=======
-      "dev": "ts-node-dev --respwan --transpile-only index.ts",
->>>>>>> b0e71b230bd705c2a5d4eb549c6da64b0a54102e
       "lint": "eslint . --ext .ts"
    },
    "keywords": [],
